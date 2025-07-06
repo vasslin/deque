@@ -1,0 +1,1 @@
+add_library(deque_lib deque.h deque.inl)
